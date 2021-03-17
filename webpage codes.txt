@@ -1,0 +1,97 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>NK WEBPAGE</title>
+<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+<body>
+<h2 style="color:Black;"><center>Persnal info!!</center></h2>
+
+
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
+
+
+<br>
+<img src="/home/ubuntu06/Downloads/nan.png" width="200" height="200" align="right">
+<h1>ABOUT</h1>
+<ul>
+  <li>Hello! This is Nandha kumar.T</li>
+  <li>Photogrpher</li>
+  <li>India,coimbatore.</li>
+<i class="fa fa-instagram" style="width:30px"> </i>
+<a href="http://instagram.com/pixel_photographerr">pixel photographer</a>
+  </ul>
+<h2>PHOTOGRAPHY QUOTES!!</h2>
+
+<p>WE LOVE TO PHOTOGRAPH!!.</p>
+
+<div>Photography is the art, application and practice of creating durable images by recording light or other electromagnetic radiation, either electronically by means of an image sensor, or chemically by means of a light-sensitive material such as photographic film.</div>
+
+<h3 style="color:Black;" align="left"> BOOK TICKETS TO VISIT PLAES!! </h3>
+
+<table align="center" height="100" width="1200" bgcolor="LightGrey" border="2">
+<style>
+{
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+{
+            border:1px dotted green;
+            padding:25px;
+            background-image:url('media/cborder.png');
+            background-repeat:no-repeat;
+            background-position:left;
+            background-origin:border-box;
+}
+{
+            border:1px dotted green;
+            padding:25px;
+            background-image:url('media/cborder.png');
+            background-repeat:no-repeat;
+            background-position:left;
+            background-origin:content-box;
+}      
+</style>
+<tr>
+<td>PLACES</td>
+<td>TICKETS AVALIBLE</td>
+<td>TRIP DATE</td>
+<td>WEBSITE</td>
+</tr>
+<br>
+
+<tr>
+<td>Kothagiri</td>
+<td>sold out</td>
+<td>feb 20</td>
+<td>Netflix</td>
+</tr>
+<br>
+
+<tr>
+<td>ooty</td>
+<td>sold out</td>
+<td>march 1</td>
+<td>Hulu</td>
+</tr>
+
+<tr>
+<td>Connor</td>
+<td>3</td>
+<td>april 04</td>
+<td>Amazon Prime</td>
+</tr>
+
+
+</body>
+</html>
+
